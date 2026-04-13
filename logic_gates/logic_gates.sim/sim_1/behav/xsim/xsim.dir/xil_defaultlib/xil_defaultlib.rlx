@@ -1,0 +1,7 @@
+0.7
+2020.2
+Mar 19 2026
+13:48:41
+/home/mirafra/logic_gates/logic_gates.sim/sim_1/behav/xsim/glbl.v,1762536278,verilog,,,,glbl,,,,,,,,
+/home/mirafra/logic_gates/logic_gates.srcs/sim_1/new/tb_logic_gates.v,1776075695,verilog,,,,tb_logic_gates,,,../../../../../Xilinx/2025.2.1/data/rsb/busdef,,,,,
+/home/mirafra/logic_gates/logic_gates.srcs/sources_1/new/logic_gates.v,1776075538,verilog,,/home/mirafra/logic_gates/logic_gates.srcs/sim_1/new/tb_logic_gates.v,,logic_gates,,,../../../../../Xilinx/2025.2.1/data/rsb/busdef,,,,,
