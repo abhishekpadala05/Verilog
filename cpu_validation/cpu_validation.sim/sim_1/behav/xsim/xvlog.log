@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mirafra/cpu_validation/cpu_validation.srcs/sources_1/new/simple_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simple_cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mirafra/cpu_validation/cpu_validation.srcs/sim_1/new/cpu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mirafra/cpu_validation/cpu_validation.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

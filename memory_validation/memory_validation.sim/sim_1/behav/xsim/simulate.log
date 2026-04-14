@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Memory Validation Started
+Read Addr 2:  55
+Read Addr 3: 100
+Memory Validation Completed
+$finish called at time : 40 ns : File "/home/mirafra/memory_validation/memory_validation.srcs/sim_1/new/memory_tb.v" Line 62
+INFO: xsimkernel Simulation Memory Usage: 281068 KB (Peak: 338340 KB), Simulation CPU Usage: 880 ms

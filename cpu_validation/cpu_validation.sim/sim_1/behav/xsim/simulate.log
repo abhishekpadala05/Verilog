@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+CPU Validation Started
+ADD:  8
+SUB:  5
+AND:  2
+OR:  7
+CPU Validation Completed
+$finish called at time : 40 ns : File "/home/mirafra/cpu_validation/cpu_validation.srcs/sim_1/new/cpu_tb.v" Line 56
+INFO: xsimkernel Simulation Memory Usage: 280808 KB (Peak: 338340 KB), Simulation CPU Usage: 940 ms

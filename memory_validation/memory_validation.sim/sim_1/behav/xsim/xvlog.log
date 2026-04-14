@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mirafra/memory_validation/memory_validation.srcs/sources_1/new/simple_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simple_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mirafra/memory_validation/memory_validation.srcs/sim_1/new/memory_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memory_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mirafra/memory_validation/memory_validation.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
